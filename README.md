@@ -2,7 +2,7 @@
 
 
 
-![autologin](https://github.com/Chimiscuilo123/Autologin-EpicGames/assets/159100583/2a18d117-2ca8-4639-b156-9b4ac1878a5f){width=100px}
+![autologin](https://github.com/Chimiscuilo123/Autologin-EpicGames/assets/159100583/2a18d117-2ca8-4639-b156-9b4ac1878a5f) width="100">
 
 
 
