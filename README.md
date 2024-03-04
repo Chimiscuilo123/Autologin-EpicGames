@@ -1,27 +1,38 @@
+
+
+
+
+![autologin](https://github.com/Chimiscuilo123/Autologin-EpicGames/assets/159100583/2a18d117-2ca8-4639-b156-9b4ac1878a5f)
+
+
+
+
+AutoLogin for Epic Games - Ranch-Geek
+
+This repository houses a preliminary version of an auto-login system designed for small gaming centers (lan centers) managing their own accounts for games like Fortnite. 🚀 The goal is to streamline the login process, allowing users to quickly dive into the gaming action.
+
+Key Features:
+
+Auto-login for Epic Games accounts.
+Temporary system freeze for a seamless user experience.
+Specifically designed for smaller environments, eliminating the need for real-time account management.
+Recommends starting Epic Games minimized for easier retry in case of login failure.
+Configuration options for accounts and file paths via Config.ini.
+Customizable title based on user preferences.
+Note: This system is optimized for smaller gaming centers handling local accounts, enabling users to log in swiftly and efficiently. Your contributions to enhance the experience are highly appreciated! 🎮
+
+****************************************************************************************************
+
 AutoLogin para Epic Games - Ranch-Geek
 
-Este repositorio alberga una versión preliminar de un sistema de inicio de sesión automático para Epic Games. La aplicación permite a los usuarios seleccionar su cuenta, experimentando una breve congelación del sistema durante el proceso. Una vez completado el inicio de sesión, la computadora vuelve a la normalidad, listo para disfrutar del juego.
+Este repositorio contiene una versión preliminar de un sistema de inicio de sesión automático diseñado para pequeños centros de juego (lan centers) que manejan cuentas propias para juegos como Fortnite. 🚀 El objetivo es agilizar el proceso de inicio de sesión para que los usuarios puedan sumergirse rápidamente en la acción.
 
 Características Principales:
 
 Inicio de sesión automático para cuentas de Epic Games.
 Congelamiento temporal del sistema para una experiencia de usuario fluida.
-Diseñado para entornos más pequeños; se requiere una comunicación mínima entre los clientes.
+Diseñado específicamente para entornos más pequeños, eliminando la necesidad de gestión de cuentas en tiempo real.
 Recomienda iniciar Epic Games minimizado para facilitar reintento en caso de fallo.
 Opciones de configuración para cuentas y rutas de archivo mediante Config.ini.
 Título personalizable según las preferencias del usuario.
-Nota: Este sistema está en desarrollo, y se anima a los usuarios a proporcionar comentarios, opiniones y sugerencias para mejorarlo. Agradecemos las contribuciones para mejorar la experiencia global del usuario. ¡Disfruta del juego con AutoLogin para Epic Games!
-*************************************************************************************************************************************************************************************************
-AutoLogin for Epic Games - Ranch-Geek
-
-This repository contains a preliminary version of an AutoLogin system designed for Epic Games. The system allows users to automate the login process by selecting their account, causing a brief system freeze during the operation. Once logged in, the system returns to normal, providing a seamless entry into the gaming experience.
-
-Key Features:
-
-Automatic login to Epic Games accounts.
-System freeze during login operation for a smooth user experience.
-Designed for smaller environments; minimal communication required between clients.
-Recommends starting Epic Games minimized to facilitate retry in case of login failure.
-Configuration options for accounts and file paths through the Config.ini file.
-Customizable title for user preferences.
-Note: This system is a work in progress, and user feedback, opinions, and suggestions for improvement are highly encouraged. We appreciate your contributions to enhance the overall user experience. Enjoy gaming with AutoLogin for Epic Games!
+Nota: Este sistema está optimizado para centros de juego más pequeños que gestionan cuentas locales, permitiendo a los usuarios iniciar sesión de manera más rápida y eficiente. ¡Agradecemos tus contribuciones para mejorar la experiencia! 🎮
